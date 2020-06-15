@@ -1,0 +1,32 @@
+{
+  "name": "toolbox",
+  "version": "0.0.1",
+  "description": "A toolbox for developers to setup their environment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KDSGYT/toolBox.git"
+  },
+  "keywords": [
+    "tool",
+    "box",
+    "toolBox",
+    "nodejs",
+    "cli"
+  ],
+  "author": "KDSG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KDSGYT/toolBox/issues"
+  },
+  "homepage": "https://github.com/KDSGYT/toolBox#readme",
+  "dependencies": {
+    "enquirer": "^2.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
